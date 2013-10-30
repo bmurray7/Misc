@@ -1,6 +1,6 @@
 #!/bin/sh
 
-# Copywrite 2013 Brian J Murray  
+# Copyright 2013 Brian J Murray  
 # Released under the Affero General Public License
 
 
