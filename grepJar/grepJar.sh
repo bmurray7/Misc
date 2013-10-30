@@ -1,4 +1,9 @@
 #!/bin/sh
+
+# Copywrite 2013 Brian J Murray  
+# Released under the Affero General Public License
+
+
 if [ "$1" == "-h" ]; then
   echo "Usage: `basename $0` regex [search path] "
   exit 0
